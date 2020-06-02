@@ -1,0 +1,30 @@
+header {
+    padding: 25px;
+    height: 50px;
+    background-color: rgb(212, 212, 212);
+}
+
+#logo {
+    height: 50px;
+    width: 50px;
+    background: blue;
+}
+
+.section1 {
+    padding: 50px;
+}
+.section2 {
+    background-color: blue;
+}
+.section3 {
+    background-color: green;
+}
+.section4 {
+    background-color: yellowgreen;
+}
+.section5 {
+    background-color: gold;
+}
+section {
+    height: 100px;
+}
